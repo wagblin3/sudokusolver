@@ -2,6 +2,20 @@ public class Grid {
     int[][] arGlobToSolve= new int[9][9];
     int[][] arUnit = new int[3][3];
 
+    public Grid(int[][] myGrid) {
+
+        setArGlobToSolve (myGrid);
+        
+        System.out.println(myGrid.getClass().getSimpleName());
+        for (int[] tab:myGrid) {
+            for (int s: tab) {
+                System.out.print(s + "\t");
+            }
+            System.out.print("\n");
+        }
+
+    }
+
     public int[][] getArGlobToSolve() {
         return arGlobToSolve;
     }
