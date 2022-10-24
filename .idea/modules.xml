@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Solver/Solver.iml" filepath="$PROJECT_DIR$/Solver/Solver.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sudokusolver.iml" filepath="$PROJECT_DIR$/.idea/sudokusolver.iml" />
     </modules>
   </component>
