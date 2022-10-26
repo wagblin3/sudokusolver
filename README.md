@@ -2,7 +2,7 @@
 Un fichier Sudoku à résoudre en entrée. Un fichier Sudoku résolu en sortie
 
 
-Le but de ce projet est d'écrire un Sudoku Solver. Ce n'est pas guidé et vous devez choisir comment vous faites le développement par vous-même.
+Le but de ce projet est d'écrire un Sudoku ToSolve. Ce n'est pas guidé et vous devez choisir comment vous faites le développement par vous-même.
 Les sudoku sont stockés dans des fichiers que vous devez lire. Il devrait être possible de donner le chemin du ou des fichiers à votre script. Une fois que votre algorithme a trouvé la solution, il doit l'écrire dans un fichier correspondant.
 Avant de commencer, posez-vous quelques questions :
 • Comment allez-vous stocker les informations sur le sudoku ?
