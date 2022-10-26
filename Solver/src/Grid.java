@@ -107,6 +107,7 @@ public class Grid {
                                     }
                                 }
                             }
+
                             // PARCOURS DE LA LIGNE
                             for (int ll = 0 ; ll < 3 ; ll++){
                                 for (int cl = 0 ; cl < 3 ; cl++) {
@@ -134,6 +135,7 @@ public class Grid {
                                     }
                                 }
                             }
+
                             // PARCOURS DE LA COLONNE
                             for (int lc = 0 ; lc < 3 ; lc++){
                                 for (int cc = 0 ; cc < 3 ; cc++) {
