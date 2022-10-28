@@ -16,7 +16,6 @@ public class Grid {
                     for (int ac3=0 ; ac3<3 ; ac3++){
                         for (int ac4=0 ; ac4<3 ; ac4++){
                             work1[ac1][ac2][ac3][ac4] = new int[]{1,2,3,4,5,6,7,8,9,9};
-
                         }
                     }
                 }
